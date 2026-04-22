@@ -1,2 +1,0 @@
-This project is a simple E-Commerce Website developed using basic web technologies like HTML, CSS, and JavaScript. It demonstrates the core functionality of an online shopping platform, including product listing, user interaction, and a responsive UI.
-The goal of this project is to understand how real-world e-commerce websites work and to apply front-end development concepts in a practical scenario.
